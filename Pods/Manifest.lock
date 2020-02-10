@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - DCKit (1.0.13)
+  - DLRadioButton (1.4.12)
+  - FSPagerView (0.8.3)
+  - IQKeyboardManagerSwift (6.5.5)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - ObjectMapper (3.5.1)
+  - SkyFloatingLabelTextField (3.8.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireObjectMapper (~> 5.2)
+  - DCKit
+  - DLRadioButton
+  - FSPagerView
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 5.0)
+  - ObjectMapper
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - DCKit
+    - DLRadioButton
+    - FSPagerView
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - ObjectMapper
+    - SkyFloatingLabelTextField
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  DCKit: ca310752c3a4d442e772de66ce4e4168ea906d62
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 812a04260314f87337a5e2c6ec2a79ab62921722
+
+COCOAPODS: 1.9.0.beta.3

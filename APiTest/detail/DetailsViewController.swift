@@ -9,10 +9,15 @@
 import UIKit
 
 class DetailsViewController: UIViewController {
-
+    
+    var data: [Data] = []
+    var imageUrl : String?
+    var indexpath : Int = 0
+    @IBOutlet weak var image: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        let url = URL(string: data[indexpath].avatar!)
+         image.kf.setImage(with: url)
         // Do any additional setup after loading the view.
     }
     
